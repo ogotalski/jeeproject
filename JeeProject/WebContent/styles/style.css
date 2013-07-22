@@ -1,0 +1,128 @@
+@CHARSET "UTF-8";
+
+body {
+	background: #FFEFDB;
+	margin:0px auto; width:800px;
+}
+tbody{
+	width: 800pt;
+}
+.hidable {
+	display: none;
+}
+
+.header td{
+	width : 100%;
+	text-align: center;
+}
+
+.description img {
+	float: left;
+	height: 200px;
+	width: 100px;
+	padding-right: 10px;
+}
+
+.description P {
+	text-indent: 1.5em;
+	text-align: justify;
+}
+
+.description A {
+	font-size: 10px;
+	color: black;
+}
+
+.login {
+	background: #FFFFE0;
+	border: 1px solid;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-right-radius: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	padding: 10px
+}
+A {
+	color: #CD6839;
+	
+}
+a:VISITED {
+	color: #8B3A3A;
+}
+.menu {
+	background: #FFFFE0;
+	width: 800px;
+	border: 1px solid;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-right-radius: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	padding: 10px
+}
+
+.play {
+	background: #E9967A;
+	width: 800px;
+	border: 1px solid;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-right-radius: 20px;
+	-webkit-border-bottom-right-radius: 20px;
+	-webkit-border-bottom-left-radius: 20px;
+	padding: 10px
+}
+
+.play h3 {
+	color: #FFFAFA;
+}
+
+.play table {
+	width: 100%
+}
+
+.play img {
+	float: left;
+	height: 200px;
+	width: 100px;
+	padding-right: 10px;
+}
+
+.play A {
+	color: #FFE7BA
+}
+.viewPlay {
+	width: 800px;
+	padding: 10px
+}
+
+
+
+.viewPlay table {
+	width: 100%
+}
+
+.viewPlay img {
+	float: left;
+	height: 200px;
+	width: 100px;
+	padding-right: 10px;
+}
+
+
+.tickets  table {
+	border-collapse: separate;
+}
+
+.tickets td {
+	background: #fc0; border : 1px solid #333;
+	empty-cells: hide; padding : 10px;
+	margin: 0px;
+	padding: 10px;
+	border: 1px solid #333;
+}
+
+.tickets th {
+	background: #fe0;
+	border: 1px solid #333;
+	empty-cells: hide;
+	padding: 10px;
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plays>
+<play name="Romeo and Juliet" author="W. Shakespeare" genre="Tragedy" image="images/img_RomeoAndJuliet.jpg" >
+	<date>12.07.2013</date>
+	<date>13.07.2013</date>
+	<description>Romeo and Juliet is a tragedy written early in the career of William Shakespeare about two young star-crossed lovers whose deaths ultimately reconcile their feuding families. It was among Shakespeare's most popular plays during his lifetime and, along with Hamlet, is one of his most frequently performed plays. Today, the title characters are regarded as archetypal young lovers.</description>
+</play>
+<play name="Thank You, Jeeves" author="P. G. Wodehouse" genre="Camedy" image="images/img_ThankYouJeeves.jpg">
+	<date>14.07.2013</date>
+	<date>15.07.2013</date>
+	<description>After a falling-out concerning Bertie’s relentless playing of the banjolele, Jeeves leaves his master’s service and finds work with Bertie’s old friend, Lord “Chuffy” Chuffnell. Bertie travels to one of Chuffy’s cottages in Somersetshire in order to continue practising his banjolele-playing without complaints from his neighbours.
+Chuffy, whose high rank is matched only by his low financial status, is hoping to sell his dilapidated family manor to the American millionaire J. Washburn Stoker, who in turn plans to rent out the property to the famous “nerve specialist” Sir Roderick Glossop, who intends to marry Chuffy’s Aunt Myrtle. Chuffy has also fallen in love with Mr. Stoker’s daughter, Pauline, a former fiancée of Bertie, but feels unable to propose to her until his finances have improved enough to be able to keep her in the style to which she’s accustomed.</description>
+</play>
+<play name="Pigs Have Wings" author="P. G. Wodehouse" genre="Camedy" image="images/img_PigsHaveWings.jpg">
+	<date>16.06.2013</date>
+	<date>17.07.2013</date>
+	<description>The absent minded Lord Emsworth finds himself once again embroiled in fierce rivalry in the pig-rearing arena with his neighbour, the obese baronet Sir Gregory Parsloe-Parsloe. With Emsworth's champion Empress of Blandings in line for a third straight victory in the local show and Parsloe bringing in a ringer, suspicions run high. Meanwhile, Blandings has its full complement of romantic entanglements. Fortunately, the ever-resourceful Gally is on hand to help out.</description>
+</play>
+<play name="Getting Even" author="Woody Allen" genre="Dramatic ballad" >
+	<date>18.07.2013</date>
+	<date>19.07.2013</date>
+	<description>Mr. Big is a parody of the style and structure of hardboiled detective stories. The protagonist, Kaiser Lupowitz, is a parody of the characters which were typically played by Humphrey Bogart on film: Dashiell Hammett's Sam Spade in The Maltese Falcon,[2] Mickey Spillane's Mike Hammer[3][4] and Raymond Chandler's Philip Marlowe.[5] Kaiser smokes Lucky Strike like Sam Spade, and is also used by Allen in another hard boiled parody, The Whore of Mensa (1974), collected in Without Feathers (1975).
+The philosophical arguments of My Philosophy will be later used in the films Bananas and Love and Death. The play Death Knocks is a direct parody of Ingmar Bergman's 1957 The Seventh Seal.[7]
+"The Schmeed Memoirs" heavily parodies Felix Kersten.</description>
+</play>
+</plays>

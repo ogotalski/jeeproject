@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hall>
+	<tickets type="Parterre" id="1">
+		<count>40</count>
+		<price>50000</price></tickets>
+	<tickets type="Balcony" id="2">
+		<count>20</count>
+		<price>30000</price>
+	</tickets></Hall>
