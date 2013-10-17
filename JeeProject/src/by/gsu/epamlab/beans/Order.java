@@ -1,5 +1,5 @@
 package by.gsu.epamlab.beans;
-// game1
+
 public class Order {
 	private Ticket ticket;
 	private int quantity;
