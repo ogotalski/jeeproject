@@ -1,5 +1,5 @@
 package by.gsu.epamlab.beans;
-
+//try 23
 import java.sql.Date;
 
 public class DBDate {
